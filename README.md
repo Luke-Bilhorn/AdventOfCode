@@ -1,2 +1,2 @@
-# AdventOfCode
-Place to keep past solutions for AoC puzzles.
+# AdventOfCode 2022
+Place to keep solutions for AoC puzzles from 2022.
